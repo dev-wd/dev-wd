@@ -3,7 +3,7 @@
 __WD(Water Dragon):  iOS Developer__ 
 - 🌱 I’m currently learning 
   - RIBs
-  - Alogorithm
+  - Algorithm
 - 💬 I’m currently using 
   - MVVM, MVI (ReactorKit in Swift)
   - RxSwift for Reactive Programming
