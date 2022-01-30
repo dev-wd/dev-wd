@@ -2,10 +2,10 @@
 ### Hi there 👋
 __WD(Water Dragon):  iOS Developer__ 
 - 🌱 I’m currently learning 
-  - RIBs
+  - Modular Design
   - Algorithm
 - 💬 I’m currently using 
-  - MVVM, MVI (ReactorKit in Swift)
+  - RIBs, MVVM, MVI (ReactorKit in Swift)
   - RxSwift for Reactive Programming
   - Swinject for DI
   - Fastlane for CD
