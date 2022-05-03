@@ -2,9 +2,9 @@
 ### Hi there 👋
 __WD(Water Dragon):  iOS Developer__ 
 - 🌱 I’m currently learning 
-  - Modular Design
   - Algorithm
 - 💬 I’m currently using 
+  - Modular Design
   - RIBs, MVVM, MVI (ReactorKit in Swift)
   - RxSwift for Reactive Programming
   - Swinject for DI
