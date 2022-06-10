@@ -4,12 +4,12 @@ __WD(Water Dragon):  iOS Developer__
 - 🌱 I’m currently learning 
   - Algorithm
 - 💬 I’m currently using 
-  - Modular Design
-  - RIBs, MVVM, MVI (ReactorKit in Swift)
+  - RIBs, MVVM, MVI (ReactorKit in Swift) for Architecture
+  - autolayout(with snapkit), flexlayout for UI
   - RxSwift for Reactive Programming
   - Swinject for DI
   - Fastlane for CD
   - Nimble, Quick, Cuckoo for Unit Test
-  - XcodeGen
+  - Tuist for Modular Design
 - 📫 How to reach me: sooyongs@icloud.com 
 - ⚡ Interests: Photography, Baseball, Cats
