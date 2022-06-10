@@ -4,7 +4,7 @@ __WD(Water Dragon):  iOS Developer__
 - 🌱 I’m currently learning 
   - Algorithm
 - 💬 I’m currently using 
-  - RIBs, MVVM, MVI (ReactorKit in Swift) for App Architecture
+  - RIBs, MVVM, MVI(with ReactorKit) for App Architecture
   - Autolayout(with Snapkit), Flexlayout for UI
   - RxSwift for Reactive Programming
   - Swinject for DI
